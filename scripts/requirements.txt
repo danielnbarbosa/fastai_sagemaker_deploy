@@ -1,0 +1,6 @@
+# need to ensure torch and torchversion versions are compatible with fastai or else inference will fail
+# check pip install logs for warning messages
+
+fastai==2.2.2
+torch==1.7.1
+torchvision==0.8.2
